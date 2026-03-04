@@ -1,0 +1,138 @@
+{
+  "data": {
+    "nodeNewsItems": {
+      "__typename": "NodeNewsConnection",
+      "nodes": [
+        {
+          "__typename": "NodeNews",
+          "id": "news-broadband",
+          "title": "Board Approves $15M Broadband Expansion for Rural Areas",
+          "path": "/news/broadband-expansion-approved",
+          "body": {
+            "processed": "<p>The Pinehurst County Board of Supervisors unanimously approved a $15 million investment in broadband infrastructure to bring high-speed internet access to underserved rural communities across the county.</p><h2>Project Details</h2><p>The project will deploy fiber-optic cable along 180 miles of county roads, connecting approximately 8,500 households and 400 businesses that currently lack reliable internet service.</p><h2>Timeline</h2><ul><li>Phase 1 (Districts 4 and 5): Construction begins Spring 2026</li><li>Phase 2 (Districts 1 and 2): Construction begins Fall 2026</li><li>Full completion expected by December 2027</li></ul><p>The project is funded through a combination of federal American Rescue Plan Act (ARPA) funds and county capital reserves.</p>",
+            "summary": "The Pinehurst County Board of Supervisors unanimously approved a $15 million investment in broadband infrastructure to bring high-speed internet access to underserved rural communities across the coun"
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80",
+            "alt": "Fiber optic broadband infrastructure",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "category": [
+            {
+              "id": "infrastructure",
+              "name": "infrastructure"
+            }
+          ],
+          "featured": true
+        },
+        {
+          "__typename": "NodeNews",
+          "id": "news-emergency-preparedness",
+          "title": "County Launches Emergency Preparedness Week Activities",
+          "path": "/news/emergency-preparedness-week",
+          "body": {
+            "processed": "<p>Pinehurst County Emergency Management is hosting a series of events during National Emergency Preparedness Week to help residents prepare for natural disasters and emergencies.</p><h2>Events Schedule</h2><ul><li>Monday: Community emergency kit building workshop at the Civic Center</li><li>Wednesday: Shelter-in-place drill at county schools</li><li>Thursday: First aid and CPR certification classes (free for residents)</li><li>Saturday: Countywide emergency communication system test</li></ul><p>Residents are encouraged to sign up for the county's emergency alert system at alert.pinehurstcounty.gov to receive real-time notifications during severe weather and other emergencies.</p>",
+            "summary": "Pinehurst County Emergency Management is hosting a series of events during National Emergency Preparedness Week to help residents prepare for natural disasters and emergencies.Events ScheduleMonday: C"
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1582139329536-e7284fece509?w=800&q=80",
+            "alt": "Emergency preparedness training",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1582139329536-e7284fece509?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1582139329536-e7284fece509?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1582139329536-e7284fece509?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "category": [
+            {
+              "id": "public-safety",
+              "name": "public-safety"
+            }
+          ],
+          "featured": false
+        },
+        {
+          "__typename": "NodeNews",
+          "id": "news-park-renovation",
+          "title": "Riverside Park Renovation Project Breaks Ground",
+          "path": "/news/riverside-park-renovation",
+          "body": {
+            "processed": "<p>Construction has officially begun on the $3.2 million renovation of Riverside Park, the county's most visited recreational facility. The project will modernize facilities and add new amenities for families.</p><h2>Improvements Include</h2><ul><li>New inclusive playground accessible to children of all abilities</li><li>Renovated picnic shelters with electric hookups</li><li>Expanded walking and cycling trails (2 additional miles)</li><li>Updated restroom facilities</li><li>New kayak and canoe launch on the river</li></ul><p>The park will remain partially open during construction, with sections closed in phases to minimize disruption. Full completion is expected by October 2026.</p>",
+            "summary": "Construction has officially begun on the $3.2 million renovation of Riverside Park, the county's most visited recreational facility. The project will modernize facilities and add new amenities for fam"
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1588714477688-cf28a50e94f7?w=800&q=80",
+            "alt": "Park renovation and playground construction",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1588714477688-cf28a50e94f7?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1588714477688-cf28a50e94f7?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1588714477688-cf28a50e94f7?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "category": [
+            {
+              "id": "community-events",
+              "name": "community-events"
+            }
+          ],
+          "featured": true
+        }
+      ]
+    }
+  }
+}

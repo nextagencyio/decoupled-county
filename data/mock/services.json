@@ -1,0 +1,162 @@
+{
+  "data": {
+    "nodeServices": {
+      "__typename": "NodeServiceConnection",
+      "nodes": [
+        {
+          "__typename": "NodeService",
+          "id": "service-property-tax",
+          "title": "Property Tax Payment",
+          "path": "/services/property-tax-payment",
+          "body": {
+            "processed": "<p>Pay your Pinehurst County property taxes online, by mail, or in person. Property taxes fund essential county services including schools, public safety, roads, and parks.</p><h2>Payment Options</h2><ul><li>Online via credit card, debit card, or e-check</li><li>By mail with check or money order</li><li>In person at the County Tax Office</li><li>Automatic bank draft enrollment</li></ul><h2>Important Dates</h2><ul><li>Tax bills mailed: September 1</li><li>Due date: January 5</li><li>Interest begins: January 6</li></ul>",
+            "summary": "Pay your Pinehurst County property taxes online, by mail, or in person. Property taxes fund essential county services including schools, public safety, roads, and parks.Payment OptionsOnline via credi"
+          },
+          "department": [
+            {
+              "id": "finance-budget",
+              "name": "finance-budget"
+            }
+          ],
+          "onlineUrl": "https://pinehurstcounty.gov/pay-taxes",
+          "eligibility": "All property owners in Pinehurst County",
+          "fee": "Varies by property assessment",
+          "serviceCategory": [
+            {
+              "id": "property-taxes",
+              "name": "property-taxes"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+            "alt": "Property tax payment services",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeService",
+          "id": "service-building-permit",
+          "title": "Building Permits",
+          "path": "/services/building-permits",
+          "body": {
+            "processed": "<p>Apply for residential and commercial building permits through Pinehurst County's Planning & Zoning Department. All new construction, additions, and significant renovations require a permit.</p><h2>Permit Types</h2><ul><li>Residential new construction</li><li>Commercial building permits</li><li>Renovation and remodeling permits</li><li>Demolition permits</li><li>Electrical, plumbing, and mechanical permits</li></ul><h2>Application Process</h2><p>Submit applications online or in person. Plan review typically takes 10-15 business days. Expedited review is available for an additional fee.</p>",
+            "summary": "Apply for residential and commercial building permits through Pinehurst County's Planning & Zoning Department. All new construction, additions, and significant renovations require a permit.Permit Type"
+          },
+          "department": [
+            {
+              "id": "planning-zoning",
+              "name": "planning-zoning"
+            }
+          ],
+          "onlineUrl": "https://pinehurstcounty.gov/permits",
+          "eligibility": "Property owners and licensed contractors",
+          "fee": "Starting at $75; varies by project scope",
+          "serviceCategory": [
+            {
+              "id": "permits-licenses",
+              "name": "permits-licenses"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&q=80",
+            "alt": "Building construction requiring permits",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeService",
+          "id": "service-voter-registration",
+          "title": "Voter Registration",
+          "path": "/services/voter-registration",
+          "body": {
+            "processed": "<p>Register to vote in Pinehurst County elections. Eligible residents can register online, by mail, or at the Board of Elections office.</p><h2>Eligibility</h2><ul><li>Must be a U.S. citizen</li><li>Must be at least 18 years old by Election Day</li><li>Must reside in Pinehurst County</li><li>Must not be serving a felony sentence</li></ul><h2>Registration Deadlines</h2><p>Registration closes 25 days before each election. Same-day registration is available during early voting with proof of residency.</p>",
+            "summary": "Register to vote in Pinehurst County elections. Eligible residents can register online, by mail, or at the Board of Elections office.EligibilityMust be a U.S. citizenMust be at least 18 years old by E"
+          },
+          "department": [
+            {
+              "id": "county-administration",
+              "name": "county-administration"
+            }
+          ],
+          "onlineUrl": "https://pinehurstcounty.gov/voter-registration",
+          "eligibility": "U.S. citizens, age 18+, residing in Pinehurst County",
+          "fee": "Free",
+          "serviceCategory": [
+            {
+              "id": "permits-licenses",
+              "name": "permits-licenses"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+            "alt": "Voter registration and elections",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

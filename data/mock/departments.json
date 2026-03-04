@@ -1,0 +1,147 @@
+{
+  "data": {
+    "nodeDepartments": {
+      "__typename": "NodeDepartmentConnection",
+      "nodes": [
+        {
+          "__typename": "NodeDepartment",
+          "id": "dept-public-works",
+          "title": "Department of Public Works",
+          "path": "/departments/public-works",
+          "body": {
+            "processed": "<p>The Department of Public Works is responsible for the construction, maintenance, and operation of Pinehurst County's infrastructure, including roads, bridges, drainage systems, and public buildings.</p><h2>Our Mission</h2><p>To provide safe, reliable, and sustainable infrastructure that supports the economic vitality and quality of life in Pinehurst County.</p><h2>Key Responsibilities</h2><ul><li>Road and bridge maintenance across 1,200 miles of county roads</li><li>Stormwater management and flood prevention</li><li>County building maintenance and construction</li><li>Fleet management and vehicle services</li></ul>",
+            "summary": "The Department of Public Works is responsible for the construction, maintenance, and operation of Pinehurst County's infrastructure, including roads, bridges, drainage systems, and public buildings.Ou"
+          },
+          "phone": "(555) 234-5678",
+          "email": "publicworks@pinehurstcounty.gov",
+          "location": "450 Industrial Blvd, Suite 100",
+          "hours": "Monday - Friday, 7:00 AM - 4:30 PM",
+          "departmentCategory": [
+            {
+              "id": "public-works",
+              "name": "public-works"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=800&q=80",
+            "alt": "County road maintenance crew at work",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeDepartment",
+          "id": "dept-health",
+          "title": "Health & Human Services",
+          "path": "/departments/health-human-services",
+          "body": {
+            "processed": "<p>The Department of Health & Human Services promotes the physical and mental well-being of Pinehurst County residents through public health programs, social services, and community outreach.</p><h2>Programs & Services</h2><ul><li>Immunization and disease prevention clinics</li><li>Women, Infants, and Children (WIC) nutrition program</li><li>Behavioral health and substance abuse services</li><li>Senior services and aging programs</li><li>Emergency assistance and crisis intervention</li></ul><h2>Community Health</h2><p>Our Community Health division works with local partners to address health disparities and promote wellness through education, screenings, and preventive care initiatives.</p>",
+            "summary": "The Department of Health & Human Services promotes the physical and mental well-being of Pinehurst County residents through public health programs, social services, and community outreach.Programs & S"
+          },
+          "phone": "(555) 234-5679",
+          "email": "hhs@pinehurstcounty.gov",
+          "location": "200 Health Center Drive",
+          "hours": "Monday - Friday, 8:00 AM - 5:00 PM",
+          "departmentCategory": [
+            {
+              "id": "health-human-services",
+              "name": "health-human-services"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+            "alt": "County health services building",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeDepartment",
+          "id": "dept-planning",
+          "title": "Planning & Zoning",
+          "path": "/departments/planning-zoning",
+          "body": {
+            "processed": "<p>The Planning & Zoning Department guides the physical development of Pinehurst County through comprehensive land use planning, zoning administration, and development review.</p><h2>Services</h2><ul><li>Zoning permits and variance requests</li><li>Subdivision review and approval</li><li>Comprehensive plan development</li><li>Geographic Information Systems (GIS) mapping</li><li>Historic preservation review</li></ul><h2>Current Projects</h2><p>Our department is currently updating the County Comprehensive Plan for 2025-2045, incorporating community input and growth projections to guide sustainable development.</p>",
+            "summary": "The Planning & Zoning Department guides the physical development of Pinehurst County through comprehensive land use planning, zoning administration, and development review.ServicesZoning permits and v"
+          },
+          "phone": "(555) 234-5680",
+          "email": "planning@pinehurstcounty.gov",
+          "location": "100 County Center, 3rd Floor",
+          "hours": "Monday - Friday, 8:30 AM - 4:30 PM",
+          "departmentCategory": [
+            {
+              "id": "planning-zoning",
+              "name": "planning-zoning"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+            "alt": "County planning and development",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

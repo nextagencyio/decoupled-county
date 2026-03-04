@@ -1,0 +1,906 @@
+{
+  "/homepage": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeHomepage",
+          "id": "homepage",
+          "title": "Welcome to Pinehurst County",
+          "path": "/homepage",
+          "heroTitle": "Serving Our County",
+          "heroSubtitle": "Building Stronger Communities Across Pinehurst County",
+          "heroDescription": {
+            "processed": "<p>Pinehurst County government is dedicated to providing efficient, transparent, and responsive services to our residents. From public safety to infrastructure, we work every day to improve quality of life across our communities.</p>",
+            "summary": "Pinehurst County government is dedicated to providing efficient, transparent, and responsive services to our residents. From public safety to infrastructure, we work every day to improve quality of li"
+          },
+          "statsItems": [
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-population",
+              "title": "",
+              "number": "352,000",
+              "label": "Residents"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-area",
+              "title": "",
+              "number": "1,200",
+              "label": "Square Miles"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-departments",
+              "title": "",
+              "number": "24",
+              "label": "Departments"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-services",
+              "title": "",
+              "number": "200+",
+              "label": "Online Services"
+            }
+          ],
+          "featuredItemsTitle": "County Departments",
+          "ctaTitle": "Access County Services Online",
+          "ctaDescription": {
+            "processed": "<p>Pay property taxes, apply for permits, register to vote, and access hundreds of county services from the comfort of your home.</p>",
+            "summary": "Pay property taxes, apply for permits, register to vote, and access hundreds of county services from the comfort of your home."
+          },
+          "ctaPrimary": "View All Services",
+          "ctaSecondary": "Contact Us"
+        }
+      }
+    }
+  },
+  "/departments/public-works": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeDepartment",
+          "id": "dept-public-works",
+          "title": "Department of Public Works",
+          "path": "/departments/public-works",
+          "body": {
+            "processed": "<p>The Department of Public Works is responsible for the construction, maintenance, and operation of Pinehurst County's infrastructure, including roads, bridges, drainage systems, and public buildings.</p><h2>Our Mission</h2><p>To provide safe, reliable, and sustainable infrastructure that supports the economic vitality and quality of life in Pinehurst County.</p><h2>Key Responsibilities</h2><ul><li>Road and bridge maintenance across 1,200 miles of county roads</li><li>Stormwater management and flood prevention</li><li>County building maintenance and construction</li><li>Fleet management and vehicle services</li></ul>",
+            "summary": "The Department of Public Works is responsible for the construction, maintenance, and operation of Pinehurst County's infrastructure, including roads, bridges, drainage systems, and public buildings.Ou"
+          },
+          "phone": "(555) 234-5678",
+          "email": "publicworks@pinehurstcounty.gov",
+          "location": "450 Industrial Blvd, Suite 100",
+          "hours": "Monday - Friday, 7:00 AM - 4:30 PM",
+          "departmentCategory": [
+            {
+              "id": "public-works",
+              "name": "public-works"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=800&q=80",
+            "alt": "County road maintenance crew at work",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/departments/health-human-services": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeDepartment",
+          "id": "dept-health",
+          "title": "Health & Human Services",
+          "path": "/departments/health-human-services",
+          "body": {
+            "processed": "<p>The Department of Health & Human Services promotes the physical and mental well-being of Pinehurst County residents through public health programs, social services, and community outreach.</p><h2>Programs & Services</h2><ul><li>Immunization and disease prevention clinics</li><li>Women, Infants, and Children (WIC) nutrition program</li><li>Behavioral health and substance abuse services</li><li>Senior services and aging programs</li><li>Emergency assistance and crisis intervention</li></ul><h2>Community Health</h2><p>Our Community Health division works with local partners to address health disparities and promote wellness through education, screenings, and preventive care initiatives.</p>",
+            "summary": "The Department of Health & Human Services promotes the physical and mental well-being of Pinehurst County residents through public health programs, social services, and community outreach.Programs & S"
+          },
+          "phone": "(555) 234-5679",
+          "email": "hhs@pinehurstcounty.gov",
+          "location": "200 Health Center Drive",
+          "hours": "Monday - Friday, 8:00 AM - 5:00 PM",
+          "departmentCategory": [
+            {
+              "id": "health-human-services",
+              "name": "health-human-services"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+            "alt": "County health services building",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/departments/planning-zoning": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeDepartment",
+          "id": "dept-planning",
+          "title": "Planning & Zoning",
+          "path": "/departments/planning-zoning",
+          "body": {
+            "processed": "<p>The Planning & Zoning Department guides the physical development of Pinehurst County through comprehensive land use planning, zoning administration, and development review.</p><h2>Services</h2><ul><li>Zoning permits and variance requests</li><li>Subdivision review and approval</li><li>Comprehensive plan development</li><li>Geographic Information Systems (GIS) mapping</li><li>Historic preservation review</li></ul><h2>Current Projects</h2><p>Our department is currently updating the County Comprehensive Plan for 2025-2045, incorporating community input and growth projections to guide sustainable development.</p>",
+            "summary": "The Planning & Zoning Department guides the physical development of Pinehurst County through comprehensive land use planning, zoning administration, and development review.ServicesZoning permits and v"
+          },
+          "phone": "(555) 234-5680",
+          "email": "planning@pinehurstcounty.gov",
+          "location": "100 County Center, 3rd Floor",
+          "hours": "Monday - Friday, 8:30 AM - 4:30 PM",
+          "departmentCategory": [
+            {
+              "id": "planning-zoning",
+              "name": "planning-zoning"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+            "alt": "County planning and development",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/officials/margaret-chen": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeOfficial",
+          "id": "official-chair",
+          "title": "Margaret Chen",
+          "path": "/officials/margaret-chen",
+          "body": {
+            "processed": "<p>Chairwoman Margaret Chen has served on the Pinehurst County Board of Supervisors since 2018 and was elected Chair in 2022. She represents District 3 and has been a driving force behind the county's infrastructure modernization program.</p><h2>Priorities</h2><ul><li>Infrastructure investment and road improvements</li><li>Expanding broadband access to rural areas</li><li>Fiscal responsibility and transparent budgeting</li><li>Environmental conservation and clean water initiatives</li></ul>",
+            "summary": "Chairwoman Margaret Chen has served on the Pinehurst County Board of Supervisors since 2018 and was elected Chair in 2022. She represents District 3 and has been a driving force behind the county's in"
+          },
+          "position": "Chair, Board of Supervisors",
+          "department": [
+            {
+              "id": "county-administration",
+              "name": "county-administration"
+            }
+          ],
+          "email": "mchen@pinehurstcounty.gov",
+          "phone": "(555) 234-5600",
+          "office": "County Administration Building, Suite 200",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80",
+            "alt": "Chairwoman Margaret Chen",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/officials/david-okonkwo": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeOfficial",
+          "id": "official-administrator",
+          "title": "David Okonkwo",
+          "path": "/officials/david-okonkwo",
+          "body": {
+            "processed": "<p>County Administrator David Okonkwo oversees the day-to-day operations of Pinehurst County government, managing a workforce of over 2,400 employees and an annual budget of $480 million.</p><h2>Background</h2><p>Mr. Okonkwo brings 20 years of public administration experience, having previously served as Assistant County Manager in Durham County and City Manager of Apex, North Carolina.</p><h2>Key Initiatives</h2><ul><li>Digital transformation of county services</li><li>Employee wellness and retention programs</li><li>Intergovernmental coordination and partnerships</li></ul>",
+            "summary": "County Administrator David Okonkwo oversees the day-to-day operations of Pinehurst County government, managing a workforce of over 2,400 employees and an annual budget of $480 million.BackgroundMr. Ok"
+          },
+          "position": "County Administrator",
+          "department": [
+            {
+              "id": "county-administration",
+              "name": "county-administration"
+            }
+          ],
+          "email": "dokonkwo@pinehurstcounty.gov",
+          "phone": "(555) 234-5601",
+          "office": "County Administration Building, Suite 210",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80",
+            "alt": "County Administrator David Okonkwo",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/officials/rosa-martinez": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeOfficial",
+          "id": "official-sheriff",
+          "title": "Rosa Martinez",
+          "path": "/officials/rosa-martinez",
+          "body": {
+            "processed": "<p>Sheriff Rosa Martinez has served the residents of Pinehurst County for over 15 years in law enforcement. Elected Sheriff in 2020, she leads a department of 320 sworn deputies and 80 civilian staff.</p><h2>Community Programs</h2><ul><li>Neighborhood Watch coordination</li><li>School Resource Officer program</li><li>Citizens Police Academy</li><li>Mental health crisis response team</li></ul>",
+            "summary": "Sheriff Rosa Martinez has served the residents of Pinehurst County for over 15 years in law enforcement. Elected Sheriff in 2020, she leads a department of 320 sworn deputies and 80 civilian staff.Com"
+          },
+          "position": "Sheriff",
+          "department": [
+            {
+              "id": "public-safety",
+              "name": "public-safety"
+            }
+          ],
+          "email": "rmartinez@pinehurstcounty.gov",
+          "phone": "(555) 234-5700",
+          "office": "Pinehurst County Sheriff's Office, 500 Justice Way",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=800&q=80",
+            "alt": "Sheriff Rosa Martinez",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/services/property-tax-payment": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeService",
+          "id": "service-property-tax",
+          "title": "Property Tax Payment",
+          "path": "/services/property-tax-payment",
+          "body": {
+            "processed": "<p>Pay your Pinehurst County property taxes online, by mail, or in person. Property taxes fund essential county services including schools, public safety, roads, and parks.</p><h2>Payment Options</h2><ul><li>Online via credit card, debit card, or e-check</li><li>By mail with check or money order</li><li>In person at the County Tax Office</li><li>Automatic bank draft enrollment</li></ul><h2>Important Dates</h2><ul><li>Tax bills mailed: September 1</li><li>Due date: January 5</li><li>Interest begins: January 6</li></ul>",
+            "summary": "Pay your Pinehurst County property taxes online, by mail, or in person. Property taxes fund essential county services including schools, public safety, roads, and parks.Payment OptionsOnline via credi"
+          },
+          "department": [
+            {
+              "id": "finance-budget",
+              "name": "finance-budget"
+            }
+          ],
+          "onlineUrl": "https://pinehurstcounty.gov/pay-taxes",
+          "eligibility": "All property owners in Pinehurst County",
+          "fee": "Varies by property assessment",
+          "serviceCategory": [
+            {
+              "id": "property-taxes",
+              "name": "property-taxes"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+            "alt": "Property tax payment services",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/services/building-permits": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeService",
+          "id": "service-building-permit",
+          "title": "Building Permits",
+          "path": "/services/building-permits",
+          "body": {
+            "processed": "<p>Apply for residential and commercial building permits through Pinehurst County's Planning & Zoning Department. All new construction, additions, and significant renovations require a permit.</p><h2>Permit Types</h2><ul><li>Residential new construction</li><li>Commercial building permits</li><li>Renovation and remodeling permits</li><li>Demolition permits</li><li>Electrical, plumbing, and mechanical permits</li></ul><h2>Application Process</h2><p>Submit applications online or in person. Plan review typically takes 10-15 business days. Expedited review is available for an additional fee.</p>",
+            "summary": "Apply for residential and commercial building permits through Pinehurst County's Planning & Zoning Department. All new construction, additions, and significant renovations require a permit.Permit Type"
+          },
+          "department": [
+            {
+              "id": "planning-zoning",
+              "name": "planning-zoning"
+            }
+          ],
+          "onlineUrl": "https://pinehurstcounty.gov/permits",
+          "eligibility": "Property owners and licensed contractors",
+          "fee": "Starting at $75; varies by project scope",
+          "serviceCategory": [
+            {
+              "id": "permits-licenses",
+              "name": "permits-licenses"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&q=80",
+            "alt": "Building construction requiring permits",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/services/voter-registration": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeService",
+          "id": "service-voter-registration",
+          "title": "Voter Registration",
+          "path": "/services/voter-registration",
+          "body": {
+            "processed": "<p>Register to vote in Pinehurst County elections. Eligible residents can register online, by mail, or at the Board of Elections office.</p><h2>Eligibility</h2><ul><li>Must be a U.S. citizen</li><li>Must be at least 18 years old by Election Day</li><li>Must reside in Pinehurst County</li><li>Must not be serving a felony sentence</li></ul><h2>Registration Deadlines</h2><p>Registration closes 25 days before each election. Same-day registration is available during early voting with proof of residency.</p>",
+            "summary": "Register to vote in Pinehurst County elections. Eligible residents can register online, by mail, or at the Board of Elections office.EligibilityMust be a U.S. citizenMust be at least 18 years old by E"
+          },
+          "department": [
+            {
+              "id": "county-administration",
+              "name": "county-administration"
+            }
+          ],
+          "onlineUrl": "https://pinehurstcounty.gov/voter-registration",
+          "eligibility": "U.S. citizens, age 18+, residing in Pinehurst County",
+          "fee": "Free",
+          "serviceCategory": [
+            {
+              "id": "permits-licenses",
+              "name": "permits-licenses"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+            "alt": "Voter registration and elections",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/meetings/board-supervisors-january": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeMeeting",
+          "id": "meeting-board-jan",
+          "title": "Board of Supervisors Regular Meeting - January",
+          "path": "/meetings/board-supervisors-january",
+          "body": {
+            "processed": "<p>Regular monthly meeting of the Pinehurst County Board of Supervisors. The board will consider the following items:</p><ul><li>Approval of December meeting minutes</li><li>FY2026 mid-year budget review</li><li>Zoning amendment request for Route 15 corridor</li><li>Update on broadband expansion project</li><li>Public comment period</li></ul><p>All meetings are open to the public. Written comments may be submitted in advance via email to clerk@pinehurstcounty.gov.</p>",
+            "summary": "Regular monthly meeting of the Pinehurst County Board of Supervisors. The board will consider the following items:Approval of December meeting minutesFY2026 mid-year budget reviewZoning amendment requ"
+          },
+          "meetingDate": {
+            "timestamp": 1768435200
+          },
+          "endDate": {
+            "timestamp": 1768446000
+          },
+          "location": "County Administration Building, Board Room, 100 County Center",
+          "meetingType": [
+            {
+              "id": "board-of-supervisors",
+              "name": "board-of-supervisors"
+            }
+          ],
+          "agendaUrl": "https://pinehurstcounty.gov/agendas/bos-2026-01",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1577962917302-cd874c4e31d2?w=800&q=80",
+            "alt": "County board meeting room",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1577962917302-cd874c4e31d2?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1577962917302-cd874c4e31d2?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1577962917302-cd874c4e31d2?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/meetings/planning-commission-february": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeMeeting",
+          "id": "meeting-planning-feb",
+          "title": "Planning Commission Meeting - February",
+          "path": "/meetings/planning-commission-february",
+          "body": {
+            "processed": "<p>Monthly meeting of the Pinehurst County Planning Commission to review development applications and zoning requests.</p><h2>Agenda Items</h2><ul><li>Conditional use permit for solar farm, District 5</li><li>Subdivision preliminary plat review: Meadow Creek Estates</li><li>Comprehensive Plan amendment discussion</li><li>Staff reports on pending applications</li></ul>",
+            "summary": "Monthly meeting of the Pinehurst County Planning Commission to review development applications and zoning requests.Agenda ItemsConditional use permit for solar farm, District 5Subdivision preliminary "
+          },
+          "meetingDate": {
+            "timestamp": 1770858000
+          },
+          "endDate": {
+            "timestamp": 1770867000
+          },
+          "location": "County Administration Building, Conference Room A",
+          "meetingType": [
+            {
+              "id": "planning-commission",
+              "name": "planning-commission"
+            }
+          ],
+          "agendaUrl": "https://pinehurstcounty.gov/agendas/pc-2026-02",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+            "alt": "Planning commission meeting",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/meetings/budget-workshop-march": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeMeeting",
+          "id": "meeting-budget-workshop",
+          "title": "FY2027 Budget Workshop",
+          "path": "/meetings/budget-workshop-march",
+          "body": {
+            "processed": "<p>The Board of Supervisors will hold a budget workshop to review departmental funding requests for Fiscal Year 2027. Department heads will present their proposed budgets and capital improvement plans.</p><h2>Key Topics</h2><ul><li>Revenue projections and economic outlook</li><li>Capital improvement program priorities</li><li>Personnel and benefits cost analysis</li><li>Public safety staffing needs</li><li>Infrastructure maintenance backlog</li></ul>",
+            "summary": "The Board of Supervisors will hold a budget workshop to review departmental funding requests for Fiscal Year 2027. Department heads will present their proposed budgets and capital improvement plans.Ke"
+          },
+          "meetingDate": {
+            "timestamp": 1772978400
+          },
+          "endDate": {
+            "timestamp": 1773003600
+          },
+          "location": "County Administration Building, Board Room",
+          "meetingType": [
+            {
+              "id": "budget-workshop",
+              "name": "budget-workshop"
+            }
+          ],
+          "agendaUrl": "https://pinehurstcounty.gov/agendas/budget-2026-03",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
+            "alt": "Budget workshop and financial planning",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/news/broadband-expansion-approved": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeNews",
+          "id": "news-broadband",
+          "title": "Board Approves $15M Broadband Expansion for Rural Areas",
+          "path": "/news/broadband-expansion-approved",
+          "body": {
+            "processed": "<p>The Pinehurst County Board of Supervisors unanimously approved a $15 million investment in broadband infrastructure to bring high-speed internet access to underserved rural communities across the county.</p><h2>Project Details</h2><p>The project will deploy fiber-optic cable along 180 miles of county roads, connecting approximately 8,500 households and 400 businesses that currently lack reliable internet service.</p><h2>Timeline</h2><ul><li>Phase 1 (Districts 4 and 5): Construction begins Spring 2026</li><li>Phase 2 (Districts 1 and 2): Construction begins Fall 2026</li><li>Full completion expected by December 2027</li></ul><p>The project is funded through a combination of federal American Rescue Plan Act (ARPA) funds and county capital reserves.</p>",
+            "summary": "The Pinehurst County Board of Supervisors unanimously approved a $15 million investment in broadband infrastructure to bring high-speed internet access to underserved rural communities across the coun"
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80",
+            "alt": "Fiber optic broadband infrastructure",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "category": [
+            {
+              "id": "infrastructure",
+              "name": "infrastructure"
+            }
+          ],
+          "featured": true
+        }
+      }
+    }
+  },
+  "/news/emergency-preparedness-week": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeNews",
+          "id": "news-emergency-preparedness",
+          "title": "County Launches Emergency Preparedness Week Activities",
+          "path": "/news/emergency-preparedness-week",
+          "body": {
+            "processed": "<p>Pinehurst County Emergency Management is hosting a series of events during National Emergency Preparedness Week to help residents prepare for natural disasters and emergencies.</p><h2>Events Schedule</h2><ul><li>Monday: Community emergency kit building workshop at the Civic Center</li><li>Wednesday: Shelter-in-place drill at county schools</li><li>Thursday: First aid and CPR certification classes (free for residents)</li><li>Saturday: Countywide emergency communication system test</li></ul><p>Residents are encouraged to sign up for the county's emergency alert system at alert.pinehurstcounty.gov to receive real-time notifications during severe weather and other emergencies.</p>",
+            "summary": "Pinehurst County Emergency Management is hosting a series of events during National Emergency Preparedness Week to help residents prepare for natural disasters and emergencies.Events ScheduleMonday: C"
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1582139329536-e7284fece509?w=800&q=80",
+            "alt": "Emergency preparedness training",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1582139329536-e7284fece509?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1582139329536-e7284fece509?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1582139329536-e7284fece509?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "category": [
+            {
+              "id": "public-safety",
+              "name": "public-safety"
+            }
+          ],
+          "featured": false
+        }
+      }
+    }
+  },
+  "/news/riverside-park-renovation": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeNews",
+          "id": "news-park-renovation",
+          "title": "Riverside Park Renovation Project Breaks Ground",
+          "path": "/news/riverside-park-renovation",
+          "body": {
+            "processed": "<p>Construction has officially begun on the $3.2 million renovation of Riverside Park, the county's most visited recreational facility. The project will modernize facilities and add new amenities for families.</p><h2>Improvements Include</h2><ul><li>New inclusive playground accessible to children of all abilities</li><li>Renovated picnic shelters with electric hookups</li><li>Expanded walking and cycling trails (2 additional miles)</li><li>Updated restroom facilities</li><li>New kayak and canoe launch on the river</li></ul><p>The park will remain partially open during construction, with sections closed in phases to minimize disruption. Full completion is expected by October 2026.</p>",
+            "summary": "Construction has officially begun on the $3.2 million renovation of Riverside Park, the county's most visited recreational facility. The project will modernize facilities and add new amenities for fam"
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1588714477688-cf28a50e94f7?w=800&q=80",
+            "alt": "Park renovation and playground construction",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1588714477688-cf28a50e94f7?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1588714477688-cf28a50e94f7?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1588714477688-cf28a50e94f7?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "category": [
+            {
+              "id": "community-events",
+              "name": "community-events"
+            }
+          ],
+          "featured": true
+        }
+      }
+    }
+  },
+  "/about": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodePage",
+          "id": "page-about",
+          "title": "About Pinehurst County",
+          "path": "/about",
+          "body": {
+            "processed": "<p>Pinehurst County was established in 1774 and has grown from a small agricultural community into a thriving region with a diverse economy and a population of over 352,000 residents.</p><h2>Government Structure</h2><p>Pinehurst County operates under a Board of Supervisors-County Administrator form of government. The five-member Board of Supervisors is elected by district to serve four-year terms. The Board appoints the County Administrator who manages day-to-day operations.</p><h2>Our Values</h2><ul><li>Transparency in government operations and spending</li><li>Fiscal responsibility and sound financial management</li><li>Environmental stewardship and sustainable growth</li><li>Equitable service delivery to all communities</li><li>Community engagement and public participation</li></ul>",
+            "summary": "Pinehurst County was established in 1774 and has grown from a small agricultural community into a thriving region with a diverse economy and a population of over 352,000 residents.Government Structure"
+          }
+        }
+      }
+    }
+  },
+  "/contact": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodePage",
+          "id": "page-contact",
+          "title": "Contact Pinehurst County",
+          "path": "/contact",
+          "body": {
+            "processed": "<p>We are here to help. Reach out to Pinehurst County government through any of the following channels:</p><h2>General Information</h2><ul><li>Phone: (555) 234-5600</li><li>Email: info@pinehurstcounty.gov</li><li>Address: 100 County Center, Pinehurst, NC 28374</li></ul><h2>Office Hours</h2><p>Most county offices are open Monday through Friday, 8:00 AM to 5:00 PM. Some departments have extended or different hours. Please check individual department pages for specific hours.</p><h2>Emergency Contacts</h2><ul><li>Emergency: 911</li><li>Non-Emergency Sheriff: (555) 234-5700</li><li>Animal Control: (555) 234-5750</li><li>County Information Line: 311</li></ul>",
+            "summary": "We are here to help. Reach out to Pinehurst County government through any of the following channels:General InformationPhone: (555) 234-5600Email: info@pinehurstcounty.govAddress: 100 County Center, P"
+          }
+        }
+      }
+    }
+  }
+}

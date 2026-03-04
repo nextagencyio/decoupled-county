@@ -1,0 +1,147 @@
+{
+  "data": {
+    "nodeOfficials": {
+      "__typename": "NodeOfficialConnection",
+      "nodes": [
+        {
+          "__typename": "NodeOfficial",
+          "id": "official-chair",
+          "title": "Margaret Chen",
+          "path": "/officials/margaret-chen",
+          "body": {
+            "processed": "<p>Chairwoman Margaret Chen has served on the Pinehurst County Board of Supervisors since 2018 and was elected Chair in 2022. She represents District 3 and has been a driving force behind the county's infrastructure modernization program.</p><h2>Priorities</h2><ul><li>Infrastructure investment and road improvements</li><li>Expanding broadband access to rural areas</li><li>Fiscal responsibility and transparent budgeting</li><li>Environmental conservation and clean water initiatives</li></ul>",
+            "summary": "Chairwoman Margaret Chen has served on the Pinehurst County Board of Supervisors since 2018 and was elected Chair in 2022. She represents District 3 and has been a driving force behind the county's in"
+          },
+          "position": "Chair, Board of Supervisors",
+          "department": [
+            {
+              "id": "county-administration",
+              "name": "county-administration"
+            }
+          ],
+          "email": "mchen@pinehurstcounty.gov",
+          "phone": "(555) 234-5600",
+          "office": "County Administration Building, Suite 200",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80",
+            "alt": "Chairwoman Margaret Chen",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeOfficial",
+          "id": "official-administrator",
+          "title": "David Okonkwo",
+          "path": "/officials/david-okonkwo",
+          "body": {
+            "processed": "<p>County Administrator David Okonkwo oversees the day-to-day operations of Pinehurst County government, managing a workforce of over 2,400 employees and an annual budget of $480 million.</p><h2>Background</h2><p>Mr. Okonkwo brings 20 years of public administration experience, having previously served as Assistant County Manager in Durham County and City Manager of Apex, North Carolina.</p><h2>Key Initiatives</h2><ul><li>Digital transformation of county services</li><li>Employee wellness and retention programs</li><li>Intergovernmental coordination and partnerships</li></ul>",
+            "summary": "County Administrator David Okonkwo oversees the day-to-day operations of Pinehurst County government, managing a workforce of over 2,400 employees and an annual budget of $480 million.BackgroundMr. Ok"
+          },
+          "position": "County Administrator",
+          "department": [
+            {
+              "id": "county-administration",
+              "name": "county-administration"
+            }
+          ],
+          "email": "dokonkwo@pinehurstcounty.gov",
+          "phone": "(555) 234-5601",
+          "office": "County Administration Building, Suite 210",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80",
+            "alt": "County Administrator David Okonkwo",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeOfficial",
+          "id": "official-sheriff",
+          "title": "Rosa Martinez",
+          "path": "/officials/rosa-martinez",
+          "body": {
+            "processed": "<p>Sheriff Rosa Martinez has served the residents of Pinehurst County for over 15 years in law enforcement. Elected Sheriff in 2020, she leads a department of 320 sworn deputies and 80 civilian staff.</p><h2>Community Programs</h2><ul><li>Neighborhood Watch coordination</li><li>School Resource Officer program</li><li>Citizens Police Academy</li><li>Mental health crisis response team</li></ul>",
+            "summary": "Sheriff Rosa Martinez has served the residents of Pinehurst County for over 15 years in law enforcement. Elected Sheriff in 2020, she leads a department of 320 sworn deputies and 80 civilian staff.Com"
+          },
+          "position": "Sheriff",
+          "department": [
+            {
+              "id": "public-safety",
+              "name": "public-safety"
+            }
+          ],
+          "email": "rmartinez@pinehurstcounty.gov",
+          "phone": "(555) 234-5700",
+          "office": "Pinehurst County Sheriff's Office, 500 Justice Way",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=800&q=80",
+            "alt": "Sheriff Rosa Martinez",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

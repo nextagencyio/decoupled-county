@@ -1,0 +1,59 @@
+{
+  "data": {
+    "nodeHomepages": {
+      "__typename": "NodeHomepageConnection",
+      "nodes": [
+        {
+          "__typename": "NodeHomepage",
+          "id": "homepage",
+          "title": "Welcome to Pinehurst County",
+          "path": "/homepage",
+          "heroTitle": "Serving Our County",
+          "heroSubtitle": "Building Stronger Communities Across Pinehurst County",
+          "heroDescription": {
+            "processed": "<p>Pinehurst County government is dedicated to providing efficient, transparent, and responsive services to our residents. From public safety to infrastructure, we work every day to improve quality of life across our communities.</p>",
+            "summary": "Pinehurst County government is dedicated to providing efficient, transparent, and responsive services to our residents. From public safety to infrastructure, we work every day to improve quality of li"
+          },
+          "statsItems": [
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-population",
+              "title": "",
+              "number": "352,000",
+              "label": "Residents"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-area",
+              "title": "",
+              "number": "1,200",
+              "label": "Square Miles"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-departments",
+              "title": "",
+              "number": "24",
+              "label": "Departments"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-services",
+              "title": "",
+              "number": "200+",
+              "label": "Online Services"
+            }
+          ],
+          "featuredItemsTitle": "County Departments",
+          "ctaTitle": "Access County Services Online",
+          "ctaDescription": {
+            "processed": "<p>Pay property taxes, apply for permits, register to vote, and access hundreds of county services from the comfort of your home.</p>",
+            "summary": "Pay property taxes, apply for permits, register to vote, and access hundreds of county services from the comfort of your home."
+          },
+          "ctaPrimary": "View All Services",
+          "ctaSecondary": "Contact Us"
+        }
+      ]
+    }
+  }
+}

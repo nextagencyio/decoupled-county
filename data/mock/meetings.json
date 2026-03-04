@@ -1,0 +1,159 @@
+{
+  "data": {
+    "nodeMeetings": {
+      "__typename": "NodeMeetingConnection",
+      "nodes": [
+        {
+          "__typename": "NodeMeeting",
+          "id": "meeting-board-jan",
+          "title": "Board of Supervisors Regular Meeting - January",
+          "path": "/meetings/board-supervisors-january",
+          "body": {
+            "processed": "<p>Regular monthly meeting of the Pinehurst County Board of Supervisors. The board will consider the following items:</p><ul><li>Approval of December meeting minutes</li><li>FY2026 mid-year budget review</li><li>Zoning amendment request for Route 15 corridor</li><li>Update on broadband expansion project</li><li>Public comment period</li></ul><p>All meetings are open to the public. Written comments may be submitted in advance via email to clerk@pinehurstcounty.gov.</p>",
+            "summary": "Regular monthly meeting of the Pinehurst County Board of Supervisors. The board will consider the following items:Approval of December meeting minutesFY2026 mid-year budget reviewZoning amendment requ"
+          },
+          "meetingDate": {
+            "timestamp": 1768435200
+          },
+          "endDate": {
+            "timestamp": 1768446000
+          },
+          "location": "County Administration Building, Board Room, 100 County Center",
+          "meetingType": [
+            {
+              "id": "board-of-supervisors",
+              "name": "board-of-supervisors"
+            }
+          ],
+          "agendaUrl": "https://pinehurstcounty.gov/agendas/bos-2026-01",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1577962917302-cd874c4e31d2?w=800&q=80",
+            "alt": "County board meeting room",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1577962917302-cd874c4e31d2?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1577962917302-cd874c4e31d2?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1577962917302-cd874c4e31d2?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeMeeting",
+          "id": "meeting-planning-feb",
+          "title": "Planning Commission Meeting - February",
+          "path": "/meetings/planning-commission-february",
+          "body": {
+            "processed": "<p>Monthly meeting of the Pinehurst County Planning Commission to review development applications and zoning requests.</p><h2>Agenda Items</h2><ul><li>Conditional use permit for solar farm, District 5</li><li>Subdivision preliminary plat review: Meadow Creek Estates</li><li>Comprehensive Plan amendment discussion</li><li>Staff reports on pending applications</li></ul>",
+            "summary": "Monthly meeting of the Pinehurst County Planning Commission to review development applications and zoning requests.Agenda ItemsConditional use permit for solar farm, District 5Subdivision preliminary "
+          },
+          "meetingDate": {
+            "timestamp": 1770858000
+          },
+          "endDate": {
+            "timestamp": 1770867000
+          },
+          "location": "County Administration Building, Conference Room A",
+          "meetingType": [
+            {
+              "id": "planning-commission",
+              "name": "planning-commission"
+            }
+          ],
+          "agendaUrl": "https://pinehurstcounty.gov/agendas/pc-2026-02",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+            "alt": "Planning commission meeting",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeMeeting",
+          "id": "meeting-budget-workshop",
+          "title": "FY2027 Budget Workshop",
+          "path": "/meetings/budget-workshop-march",
+          "body": {
+            "processed": "<p>The Board of Supervisors will hold a budget workshop to review departmental funding requests for Fiscal Year 2027. Department heads will present their proposed budgets and capital improvement plans.</p><h2>Key Topics</h2><ul><li>Revenue projections and economic outlook</li><li>Capital improvement program priorities</li><li>Personnel and benefits cost analysis</li><li>Public safety staffing needs</li><li>Infrastructure maintenance backlog</li></ul>",
+            "summary": "The Board of Supervisors will hold a budget workshop to review departmental funding requests for Fiscal Year 2027. Department heads will present their proposed budgets and capital improvement plans.Ke"
+          },
+          "meetingDate": {
+            "timestamp": 1772978400
+          },
+          "endDate": {
+            "timestamp": 1773003600
+          },
+          "location": "County Administration Building, Board Room",
+          "meetingType": [
+            {
+              "id": "budget-workshop",
+              "name": "budget-workshop"
+            }
+          ],
+          "agendaUrl": "https://pinehurstcounty.gov/agendas/budget-2026-03",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
+            "alt": "Budget workshop and financial planning",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
