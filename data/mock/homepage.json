@@ -19,28 +19,28 @@
               "__typename": "ParagraphStatItem",
               "id": "stat-population",
               "title": "",
-              "number": "352,000",
+              "number": "352,000", "value": "352,000",
               "label": "Residents"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-area",
               "title": "",
-              "number": "1,200",
+              "number": "1,200", "value": "1,200",
               "label": "Square Miles"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-departments",
               "title": "",
-              "number": "24",
+              "number": "24", "value": "24",
               "label": "Departments"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-services",
               "title": "",
-              "number": "200+",
+              "number": "200+", "value": "200+",
               "label": "Online Services"
             }
           ],
