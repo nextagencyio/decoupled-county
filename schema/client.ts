@@ -34,7 +34,58 @@ export function createTypedClient(client: DecoupledClient): TypedClient {
         query ($path: String!) {
           route(path: $path) {
             ... on RouteInternal {
-              entity { ... on NodePage { __typename id title path body { processed } } }
+              entity {
+                ... on NodePage { __typename id title path body { processed } }
+                ... on NodeDepartment {
+                  __typename id title path
+                  body { processed }
+                  phone email location hours
+                  departmentCategory { ... on TermDepartment { id name } }
+                  image { url alt width height }
+                }
+                ... on NodeOfficial {
+                  __typename id title path
+                  body { processed }
+                  position email phone office
+                  department { ... on TermDepartment { id name } }
+                  photo { url alt width height }
+                }
+                ... on NodeService {
+                  __typename id title path
+                  body { processed }
+                  onlineUrl eligibility fee
+                  department { ... on TermDepartment { id name } }
+                  serviceCategory { ... on TermServiceCategory { id name } }
+                  image { url alt width height }
+                }
+                ... on NodeMeeting {
+                  __typename id title path
+                  body { processed }
+                  meetingDate { timestamp }
+                  endDate { timestamp }
+                  location agendaUrl
+                  meetingType { ... on TermMeetingType { id name } }
+                  image { url alt width height }
+                }
+                ... on NodeNews {
+                  __typename id title path
+                  body { processed }
+                  created { timestamp }
+                  category { ... on TermNewsCategory { id name } }
+                  featured
+                  image { url alt width height }
+                }
+                ... on NodeHomepage {
+                  __typename id title path
+                  heroTitle heroSubtitle
+                  heroDescription { processed }
+                  statsItems { ... on ParagraphStatItem { id number label } }
+                  featuredItemsTitle
+                  ctaTitle
+                  ctaDescription { processed }
+                  ctaPrimary ctaSecondary
+                }
+              }
             }
           }
         }

@@ -51,7 +51,7 @@ export const GET_DEPARTMENTS = gql`
           location
           hours
           departmentCategory {
-            ... on TermInterface {
+            ... on TermDepartment {
               id
               name
             }
@@ -129,7 +129,7 @@ export const GET_OFFICIALS = gql`
           }
           position
           department {
-            ... on TermInterface {
+            ... on TermDepartment {
               id
               name
             }
@@ -210,7 +210,7 @@ export const GET_SERVICES = gql`
             summary
           }
           department {
-            ... on TermInterface {
+            ... on TermDepartment {
               id
               name
             }
@@ -219,7 +219,7 @@ export const GET_SERVICES = gql`
           eligibility
           fee
           serviceCategory {
-            ... on TermInterface {
+            ... on TermServiceCategory {
               id
               name
             }
@@ -309,7 +309,7 @@ export const GET_MEETINGS = gql`
           }
           location
           meetingType {
-            ... on TermInterface {
+            ... on TermMeetingType {
               id
               name
             }
@@ -407,7 +407,7 @@ export const GET_NEWS = gql`
             }
           }
           category {
-            ... on TermInterface {
+            ... on TermNewsCategory {
               id
               name
             }
@@ -633,7 +633,7 @@ export const GET_FEATURED_DEPARTMENTS = gql`
           }
           phone
           departmentCategory {
-            ... on TermInterface {
+            ... on TermDepartment {
               id
               name
             }
@@ -680,7 +680,7 @@ export const GET_FEATURED_NEWS = gql`
             }
           }
           category {
-            ... on TermInterface {
+            ... on TermNewsCategory {
               id
               name
             }
@@ -706,7 +706,7 @@ export const GET_UPCOMING_MEETINGS = gql`
           }
           location
           meetingType {
-            ... on TermInterface {
+            ... on TermMeetingType {
               id
               name
             }
